@@ -276,7 +276,7 @@ $(document).ready(function() {
    		Homepage Text Ticker
    	   ========================================================================== */
     $('.write').typed({
-        strings: ["front end developer.", "requirement gathering" , "scrum master"],
+        strings: ["ui designer", "requirement analyst" , "scrum master"],
         typeSpeed: 100,
         backSpeed: 50,
         loop:true,
